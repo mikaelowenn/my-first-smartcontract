@@ -1,7 +1,7 @@
-## Foundry Fund Me
+## Foundry Crowd Sourcing App
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-Welcome to my GitHub repository for Foundry Fund Me! This project showcases my first portfolio for Smart Contract Development using Foundry, a blazing fast, portable, and modular toolkit for Ethereum application development written in Rust
+Welcome to my GitHub repository for Foundry Crowd Sourcing App! This project showcases my first portfolio for Smart Contract Development using Foundry, a blazing fast, portable, and modular toolkit for Ethereum application development written in Rust
 ## Foundry consists of several powerful toolss:
 
 -   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
