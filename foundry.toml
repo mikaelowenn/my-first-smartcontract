@@ -2,5 +2,8 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-
+remappings = ["@chainlink/contracts/=/Users/mikaelowen/Documents/foundry-fund-me-f23/lib/chainlink-brownie-contracts/contracts"]
+ffi=true
+[profile.dependencies]
+forge-std = { git = "https://github.com/foundry-rs/forge-std", tag = "v1.1.2" }
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
